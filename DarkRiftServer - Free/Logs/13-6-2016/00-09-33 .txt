@@ -1,0 +1,12 @@
+13.6.2016 00:09:33 	[Trace]	#### Server boot ####
+13.6.2016 00:09:33 	[Trace]	#### Server boot ####
+13.6.2016 00:09:33 	[Log]	Server mounted, listening on port 4296
+13.6.2016 00:09:33 	[Trace]	Found plugin: E:\Projects\GitHub\Warlock\DarkRiftServer - Free\Plugins\UsersPlugin.dll, type of UsersPlugin.UsersPlugin
+13.6.2016 00:09:33 	[Trace]	Found a total of 1 plugins.
+13.6.2016 00:09:33 	[Log]	Loaded plugin: Users Plugin Version: 1.0
+13.6.2016 00:09:38 	[Log]	Connected: 127.0.0.1:17072
+13.6.2016 00:09:38 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-5
+13.6.2016 00:09:38 	[Log]	Login attempt!
+13.6.2016 00:09:38 	[Error]	Could not parse the payload
+13.6.2016 00:09:46 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+13.6.2016 00:09:46 	[Log]	Disconnected: 127.0.0.1:17072

@@ -1,0 +1,243 @@
+12.6.2016 23:58:15 	[Trace]	#### Server boot ####
+12.6.2016 23:58:15 	[Trace]	#### Server boot ####
+12.6.2016 23:58:15 	[Log]	Server mounted, listening on port 4296
+12.6.2016 23:58:15 	[Trace]	Found plugin: E:\Projects\GitHub\Warlock\DarkRiftServer - Free\Plugins\UsersPlugin.dll, type of UsersPlugin.UsersPlugin
+12.6.2016 23:58:15 	[Trace]	Found a total of 1 plugins.
+12.6.2016 23:58:15 	[Log]	Loaded plugin: Users Plugin Version: 1.0
+12.6.2016 23:58:28 	[Log]	Connected: 127.0.0.1:16254
+12.6.2016 23:58:43 	[Log]	Disconnected: 127.0.0.1:16254
+12.6.2016 23:58:43 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+12.6.2016 23:58:49 	[Trace]	Executing command RegisterUser
+12.6.2016 23:58:49 	[Log]	User asd registered!
+12.6.2016 23:59:01 	[Log]	Connected: 127.0.0.1:16288
+12.6.2016 23:59:05 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+12.6.2016 23:59:05 	[Log]	Disconnected: 127.0.0.1:16288
+12.6.2016 23:59:38 	[Log]	Connected: 127.0.0.1:16332
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:40 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:46 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:47 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:48 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:49 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:51 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:51 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:51 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:51 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:51 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:51 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:51 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:51 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:51 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:51 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:51 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:52 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:52 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:52 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:52 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:52 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:52 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:52 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:52 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:52 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:52 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:52 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:52 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:52 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:52 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:52 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:52 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-2
+12.6.2016 23:59:53 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:53 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:53 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:53 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:53 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:53 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:53 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:53 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:53 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:53 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:53 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:53 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:53 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:53 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:53 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:53 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:53 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:53 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-1
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:54 	[Log]	Data: Sender: 1 DistributionType: Others Tag-Subject: 0-0
+12.6.2016 23:59:55 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+12.6.2016 23:59:55 	[Log]	Disconnected: 127.0.0.1:16332
+13.6.2016 00:00:45 	[Error]	No such command found!
+13.6.2016 00:00:45 	[Trace]	Could not execute command clear as was not present in commands dictionary.
+13.6.2016 00:00:55 	[Log]	Connected: 127.0.0.1:16434
+13.6.2016 00:00:57 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+13.6.2016 00:00:57 	[Log]	Disconnected: 127.0.0.1:16434
+13.6.2016 00:01:06 	[Log]	Connected: 127.0.0.1:16446
+13.6.2016 00:01:10 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+13.6.2016 00:01:10 	[Log]	Disconnected: 127.0.0.1:16446
+13.6.2016 00:01:32 	[Log]	Connected: 127.0.0.1:16477
+13.6.2016 00:02:08 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+13.6.2016 00:02:08 	[Log]	Disconnected: 127.0.0.1:16477

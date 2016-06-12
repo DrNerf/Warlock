@@ -1,0 +1,9 @@
+13.6.2016 00:04:46 	[Trace]	#### Server boot ####
+13.6.2016 00:04:46 	[Trace]	#### Server boot ####
+13.6.2016 00:04:46 	[Log]	Server mounted, listening on port 4296
+13.6.2016 00:04:46 	[Trace]	Found plugin: E:\Projects\GitHub\Warlock\DarkRiftServer - Free\Plugins\UsersPlugin.dll, type of UsersPlugin.UsersPlugin
+13.6.2016 00:04:46 	[Trace]	Found a total of 1 plugins.
+13.6.2016 00:04:46 	[Log]	Loaded plugin: Users Plugin Version: 1.0
+13.6.2016 00:04:53 	[Log]	Connected: 127.0.0.1:16725
+13.6.2016 00:05:04 	[Log]	Disconnected: 127.0.0.1:16725
+13.6.2016 00:05:04 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)

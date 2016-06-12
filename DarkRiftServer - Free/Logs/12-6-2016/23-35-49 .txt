@@ -1,0 +1,7 @@
+12.6.2016 23:35:49 	[Trace]	#### Server boot ####
+12.6.2016 23:35:49 	[Trace]	#### Server boot ####
+12.6.2016 23:35:49 	[Log]	Server mounted, listening on port 4296
+12.6.2016 23:35:49 	[Trace]	Found plugin: E:\Projects\GitHub\Warlock\DarkRiftServer - Free\Plugins\UsersPlugin.dll, type of UsersPlugin.UsersPlugin
+12.6.2016 23:35:49 	[Trace]	Found a total of 1 plugins.
+12.6.2016 23:36:19 	[Error]	No such command found!
+12.6.2016 23:36:19 	[Trace]	Could not execute command registeruser as was not present in commands dictionary.

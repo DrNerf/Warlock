@@ -1,0 +1,9 @@
+12.6.2016 23:38:41 	[Trace]	#### Server boot ####
+12.6.2016 23:38:41 	[Trace]	#### Server boot ####
+12.6.2016 23:38:41 	[Log]	Server mounted, listening on port 4296
+12.6.2016 23:38:41 	[Trace]	Found plugin: E:\Projects\GitHub\Warlock\DarkRiftServer - Free\Plugins\UsersPlugin.dll, type of UsersPlugin.UsersPlugin
+12.6.2016 23:38:41 	[Trace]	Found a total of 1 plugins.
+12.6.2016 23:38:41 	[Log]	Loaded plugin: Users Plugin Version: 1.0
+12.6.2016 23:38:56 	[Trace]	Executing command RegisterUser
+12.6.2016 23:38:56 	[Error]	User could not be registered!
+12.6.2016 23:38:56 	[Error]	The type initializer for 'System.Data.Entity.Internal.AppConfig' threw an exception.

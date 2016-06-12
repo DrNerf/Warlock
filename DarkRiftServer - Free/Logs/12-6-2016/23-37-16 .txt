@@ -1,0 +1,15 @@
+12.6.2016 23:37:16 	[Trace]	#### Server boot ####
+12.6.2016 23:37:16 	[Trace]	#### Server boot ####
+12.6.2016 23:37:16 	[Log]	Server mounted, listening on port 4296
+12.6.2016 23:37:16 	[Trace]	Found plugin: E:\Projects\GitHub\Warlock\DarkRiftServer - Free\Plugins\UsersPlugin.dll, type of UsersPlugin.UsersPlugin
+12.6.2016 23:37:16 	[Trace]	Found a total of 1 plugins.
+12.6.2016 23:37:21 	[Error]	No such command found!
+12.6.2016 23:37:21 	[Trace]	Could not execute command exit as was not present in commands dictionary.
+12.6.2016 23:37:23 	[Error]	No such command found!
+12.6.2016 23:37:23 	[Trace]	Could not execute command quit as was not present in commands dictionary.
+12.6.2016 23:37:25 	[Error]	No such command found!
+12.6.2016 23:37:25 	[Trace]	Could not execute command help as was not present in commands dictionary.
+12.6.2016 23:37:28 	[Error]	No such command found!
+12.6.2016 23:37:28 	[Trace]	Could not execute command commands as was not present in commands dictionary.
+12.6.2016 23:37:31 	[Error]	No such command found!
+12.6.2016 23:37:31 	[Trace]	Could not execute command /help as was not present in commands dictionary.

@@ -9,4 +9,4 @@ MaxConnections:		65535
 //Should passing data be shown output for confirmation?
 //Note: Don't leave on in production servers, writing to any GUI is an expensive operation and 
 //will slow your server dramatically!
-LogData:			False
+LogData:			True
