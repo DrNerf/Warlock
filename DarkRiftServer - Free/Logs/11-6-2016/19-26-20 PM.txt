@@ -1,0 +1,10 @@
+11/6/2016 19:26:20 PM	[Trace]	#### Server boot ####
+11/6/2016 19:26:20 PM	[Trace]	#### Server boot ####
+11/6/2016 19:26:20 PM	[Log]	Server mounted, listening on port 4296
+11/6/2016 19:26:20 PM	[Trace]	Found plugin: F:\Projects\Warlock\DarkRiftServer - Free\Plugins\UsersPlugin.dll, type of UsersPlugin.UsersPlugin
+11/6/2016 19:26:20 PM	[Trace]	Found a total of 1 plugins.
+11/6/2016 19:26:20 PM	[Log]	Loaded plugin: Users Plugin Version: 1.0
+11/6/2016 19:26:24 PM	[Trace]	Executing command RegisterUser
+11/6/2016 19:26:25 PM	[Error]	User could not be registered!
+11/6/2016 19:26:25 PM	[Error]	Schema specified is not valid. Errors: 
+WarlockServerEntities.ssdl(2,2) : error 0152: No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SqlClient'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.

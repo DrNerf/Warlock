@@ -1,0 +1,13 @@
+11/6/2016 18:18:39 PM	[Trace]	#### Server boot ####
+11/6/2016 18:18:39 PM	[Trace]	#### Server boot ####
+11/6/2016 18:18:39 PM	[Log]	Server mounted, listening on port 4296
+11/6/2016 18:18:39 PM	[Trace]	Found plugin: F:\Projects\Warlock\DarkRiftServer - Free\Plugins\UsersPlugin.dll, type of UsersPlugin.UsersPlugin
+11/6/2016 18:18:39 PM	[Trace]	Found a total of 1 plugins.
+11/6/2016 18:18:39 PM	[Log]	Hey!
+11/6/2016 18:18:39 PM	[Log]	Loaded plugin: Users Plugin Version: 1.0
+11/6/2016 18:18:50 PM	[Error]	No such command found!
+11/6/2016 18:18:50 PM	[Trace]	Could not execute command register as was not present in commands dictionary.
+11/6/2016 18:18:53 PM	[Trace]	Executing command RegisterUser
+11/6/2016 18:18:53 PM	[Error]	Register needs 2 arguments, username and password!
+11/6/2016 18:18:53 PM	[Error]	User could not be registered!
+11/6/2016 18:18:53 PM	[Error]	Index was outside the bounds of the array.

@@ -1,0 +1,26 @@
+12/6/2016 12:10:54 PM	[Trace]	#### Server boot ####
+12/6/2016 12:10:54 PM	[Trace]	#### Server boot ####
+12/6/2016 12:10:54 PM	[Log]	Server mounted, listening on port 4296
+12/6/2016 12:10:54 PM	[Trace]	Found plugin: F:\Projects\Warlock\DarkRiftServer - Free\Plugins\UsersPlugin.dll, type of UsersPlugin.UsersPlugin
+12/6/2016 12:10:54 PM	[Trace]	Found a total of 1 plugins.
+12/6/2016 12:10:54 PM	[Log]	Loaded plugin: Users Plugin Version: 1.0
+12/6/2016 12:13:18 PM	[Log]	Connected: 127.0.0.1:54013
+12/6/2016 12:14:23 PM	[Log]	Disconnected: 127.0.0.1:54013
+12/6/2016 12:15:06 PM	[Log]	Connected: 127.0.0.1:54032
+12/6/2016 12:15:17 PM	[Log]	Connected: 127.0.0.1:54035
+12/6/2016 12:16:44 PM	[Log]	Disconnected: 127.0.0.1:54035
+12/6/2016 12:17:59 PM	[Log]	Disconnected: 127.0.0.1:54032
+12/6/2016 12:18:28 PM	[Log]	Connected: 127.0.0.1:54061
+12/6/2016 12:18:32 PM	[Log]	Connected: 127.0.0.1:54064
+12/6/2016 12:19:01 PM	[Log]	Disconnected: 127.0.0.1:54061
+12/6/2016 12:19:12 PM	[Log]	Disconnected: 127.0.0.1:54064
+12/6/2016 12:37:42 PM	[Log]	Connected: 127.0.0.1:55125
+12/6/2016 12:38:03 PM	[Log]	Disconnected: 127.0.0.1:55125
+12/6/2016 12:38:34 PM	[Log]	Connected: 127.0.0.1:55130
+12/6/2016 12:38:43 PM	[Log]	Disconnected: 127.0.0.1:55130
+12/6/2016 12:39:15 PM	[Log]	Connected: 127.0.0.1:55131
+12/6/2016 12:39:35 PM	[Log]	Disconnected: 127.0.0.1:55131
+12/6/2016 12:40:13 PM	[Log]	Connected: 127.0.0.1:55143
+12/6/2016 12:40:15 PM	[Log]	Connected: 127.0.0.1:55146
+12/6/2016 12:40:39 PM	[Log]	Disconnected: 127.0.0.1:55146
+12/6/2016 12:40:46 PM	[Log]	Disconnected: 127.0.0.1:55143
