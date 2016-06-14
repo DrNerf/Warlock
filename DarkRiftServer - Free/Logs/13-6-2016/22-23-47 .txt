@@ -1,0 +1,22 @@
+13.6.2016 22:23:47 	[Trace]	#### Server boot ####
+13.6.2016 22:23:47 	[Trace]	#### Server boot ####
+13.6.2016 22:23:47 	[Log]	Server mounted, listening on port 4296
+13.6.2016 22:23:47 	[Trace]	Found plugin: E:\Projects\GitHub\Warlock\DarkRiftServer - Free\Plugins\UsersPlugin.dll, type of UsersPlugin.UsersPlugin
+13.6.2016 22:23:47 	[Trace]	Found a total of 1 plugins.
+13.6.2016 22:23:47 	[Log]	Loaded plugin: Users Plugin Version: 1.0
+13.6.2016 22:23:51 	[Log]	Connected: 127.0.0.1:26144
+13.6.2016 22:23:51 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-5
+13.6.2016 22:23:51 	[Trace]	Exception trace ConnectionService.ProcessDataItem
+13.6.2016 22:23:51 	[Error]	System.Runtime.Serialization.SerializationException: Unable to find assembly 'CommunicationLayer'.
+   at System.Runtime.Serialization.Formatters.Binary.BinaryAssemblyInfo.GetAssembly()
+   at System.Runtime.Serialization.Formatters.Binary.ObjectReader.GetType(BinaryAssemblyInfo assemblyInfo, String name)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectMap..ctor(String objectName, String[] memberNames, BinaryTypeEnum[] binaryTypeEnumA, Object[] typeInformationA, Int32[] memberAssemIds, ObjectReader objectReader, Int32 objectId, BinaryAssemblyInfo assemblyInfo, SizedArray assemIdToAssemblyTable)
+   at System.Runtime.Serialization.Formatters.Binary.__BinaryParser.ReadObjectWithMapTyped(BinaryObjectWithMapTyped record)
+   at System.Runtime.Serialization.Formatters.Binary.__BinaryParser.Run()
+   at System.Runtime.Serialization.Formatters.Binary.ObjectReader.Deserialize(HeaderHandler handler, __BinaryParser serParser, Boolean fCheck, Boolean isCrossAppDomain, IMethodCallMessage methodCallMessage)
+   at DarkRift.Transmission.TransmissionProtocol.DecodeMessageData(DataBufferItem item)
+   at DarkRift.NetworkMessage.DecodeData()
+   at UsersPlugin.UsersPlugin.OnDataReceived(ConnectionService con, NetworkMessage& data)
+   at DarkRift.ConnectionService.ProcessDataItem(Object context)
+13.6.2016 22:23:59 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+13.6.2016 22:23:59 	[Log]	Disconnected: 127.0.0.1:26144

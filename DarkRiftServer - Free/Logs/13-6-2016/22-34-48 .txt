@@ -1,0 +1,51 @@
+13.6.2016 22:34:48 	[Trace]	#### Server boot ####
+13.6.2016 22:34:48 	[Trace]	#### Server boot ####
+13.6.2016 22:34:48 	[Log]	Server mounted, listening on port 4296
+13.6.2016 22:34:48 	[Trace]	Found plugin: E:\Projects\GitHub\Warlock\DarkRiftServer - Free\Plugins\UsersPlugin.dll, type of UsersPlugin.UsersPlugin
+13.6.2016 22:34:48 	[Trace]	Found a total of 1 plugins.
+13.6.2016 22:34:48 	[Log]	Loaded plugin: Users Plugin Version: 1.0
+13.6.2016 22:36:50 	[Log]	Connected: 127.0.0.1:26997
+13.6.2016 22:36:50 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-5
+13.6.2016 22:36:51 	[Log]	DrNerf True
+13.6.2016 22:40:15 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+13.6.2016 22:40:15 	[Log]	Disconnected: 127.0.0.1:26997
+13.6.2016 22:40:18 	[Log]	Connected: 127.0.0.1:27345
+13.6.2016 22:40:18 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-5
+13.6.2016 22:40:18 	[Log]	DrNerf True
+13.6.2016 22:40:31 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+13.6.2016 22:40:31 	[Log]	Disconnected: 127.0.0.1:27345
+13.6.2016 22:40:31 	[Trace]	Disconnect was due to handled exception: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at DarkRift.ConnectionService.ReadHeaderCallback(IAsyncResult result)
+13.6.2016 22:40:50 	[Log]	Connected: 127.0.0.1:27379
+13.6.2016 22:40:50 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-5
+13.6.2016 22:40:50 	[Log]	DrNerf True
+13.6.2016 22:40:56 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+13.6.2016 22:40:56 	[Log]	Disconnected: 127.0.0.1:27379
+13.6.2016 22:40:56 	[Trace]	Disconnect was due to handled exception: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at DarkRift.ConnectionService.ReadHeaderCallback(IAsyncResult result)
+13.6.2016 22:42:16 	[Log]	Connected: 127.0.0.1:27478
+13.6.2016 22:42:16 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-5
+13.6.2016 22:42:16 	[Log]	DrNerf True
+13.6.2016 22:45:44 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+13.6.2016 22:45:44 	[Log]	Disconnected: 127.0.0.1:27478
+13.6.2016 23:01:01 	[Log]	Connected: 127.0.0.1:28719
+13.6.2016 23:01:15 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+13.6.2016 23:01:15 	[Log]	Disconnected: 127.0.0.1:28719
+13.6.2016 23:48:35 	[Log]	Connected: 127.0.0.1:31990
+13.6.2016 23:48:39 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+13.6.2016 23:48:39 	[Log]	Disconnected: 127.0.0.1:31990
+13.6.2016 23:49:16 	[Log]	Connected: 127.0.0.1:32054
+13.6.2016 23:50:14 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+13.6.2016 23:50:14 	[Log]	Disconnected: 127.0.0.1:32054
+13.6.2016 23:54:00 	[Log]	Connected: 127.0.0.1:32422
+13.6.2016 23:57:31 	[Log]	Disconnected: 127.0.0.1:32422
+13.6.2016 23:57:37 	[Log]	Connected: 127.0.0.1:32681
+13.6.2016 23:57:40 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+13.6.2016 23:57:40 	[Log]	Disconnected: 127.0.0.1:32681
+13.6.2016 23:57:54 	[Log]	Connected: 127.0.0.1:32700
+14.6.2016 00:01:41 	[Log]	Disconnected: 127.0.0.1:32700
+14.6.2016 00:01:51 	[Log]	Connected: 127.0.0.1:32951
+14.6.2016 00:02:08 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+14.6.2016 00:02:08 	[Log]	Disconnected: 127.0.0.1:32951

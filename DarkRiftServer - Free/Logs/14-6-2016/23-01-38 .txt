@@ -1,0 +1,32 @@
+14.6.2016 23:01:38 	[Trace]	#### Server boot ####
+14.6.2016 23:01:38 	[Trace]	#### Server boot ####
+14.6.2016 23:01:38 	[Log]	Server mounted, listening on port 4296
+14.6.2016 23:01:38 	[Trace]	Found plugin: E:\Projects\GitHub\Warlock\DarkRiftServer - Free\Plugins\UsersPlugin.dll, type of UsersPlugin.UsersPlugin
+14.6.2016 23:01:38 	[Trace]	Found a total of 1 plugins.
+14.6.2016 23:01:38 	[Log]	Loaded plugin: Users Plugin Version: 1.0
+14.6.2016 23:01:42 	[Log]	Connected: 127.0.0.1:42655
+14.6.2016 23:01:43 	[Log]	Disconnected: 127.0.0.1:42655
+14.6.2016 23:01:43 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+14.6.2016 23:03:04 	[Log]	Connected: 127.0.0.1:42833
+14.6.2016 23:03:23 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+14.6.2016 23:03:23 	[Log]	Disconnected: 127.0.0.1:42833
+14.6.2016 23:06:25 	[Log]	Connected: 127.0.0.1:43051
+14.6.2016 23:11:03 	[Log]	Disconnected: 127.0.0.1:43051
+14.6.2016 23:12:41 	[Log]	Connected: 127.0.0.1:43482
+14.6.2016 23:12:53 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+14.6.2016 23:12:53 	[Log]	Disconnected: 127.0.0.1:43482
+14.6.2016 23:24:08 	[Log]	Connected: 127.0.0.1:44318
+14.6.2016 23:24:19 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+14.6.2016 23:24:20 	[Log]	DrNerf True
+14.6.2016 23:24:27 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+14.6.2016 23:24:27 	[Log]	DrNerf False
+14.6.2016 23:24:35 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+14.6.2016 23:24:35 	[Log]	DrNerf True
+14.6.2016 23:25:16 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+14.6.2016 23:25:16 	[Log]	DrNerf True
+14.6.2016 23:25:18 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+14.6.2016 23:25:18 	[Log]	DrNerf True
+14.6.2016 23:25:20 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+14.6.2016 23:25:20 	[Log]	DrNerf True
+14.6.2016 23:25:35 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+14.6.2016 23:25:35 	[Log]	Disconnected: 127.0.0.1:44318

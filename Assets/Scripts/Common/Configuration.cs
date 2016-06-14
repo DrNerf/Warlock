@@ -8,7 +8,7 @@ namespace Warlock.Common
     public class Configuration
     {
         public string ServerIP = "127.0.0.1";
-        
         public int ServerPort = 4296;
+        public bool NetworkingAsync = false;
     } 
 }

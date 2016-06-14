@@ -1,0 +1,12 @@
+13.6.2016 22:24:14 	[Trace]	#### Server boot ####
+13.6.2016 22:24:14 	[Trace]	#### Server boot ####
+13.6.2016 22:24:14 	[Log]	Server mounted, listening on port 4296
+13.6.2016 22:24:14 	[Trace]	Found plugin: E:\Projects\GitHub\Warlock\DarkRiftServer - Free\Plugins\UsersPlugin.dll, type of UsersPlugin.UsersPlugin
+13.6.2016 22:24:14 	[Trace]	Found a total of 1 plugins.
+13.6.2016 22:24:14 	[Log]	Loaded plugin: Users Plugin Version: 1.0
+13.6.2016 22:24:18 	[Log]	Connected: 127.0.0.1:26173
+13.6.2016 22:24:18 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-5
+13.6.2016 22:24:18 	[Error]	Could not parse the payload
+13.6.2016 22:24:18 	[Error]	DarkRift.NetworkMessage
+13.6.2016 22:24:18 	[Error]	CommunicationLayer.GenericPayload`1[CommunicationLayer.CommunicationModels.TryLoginRequestModel]
+13.6.2016 22:24:18 	[Error]	CommunicationLayer.GenericPayload`1[CommunicationLayer.CommunicationModels.TryLoginRequestModel]
