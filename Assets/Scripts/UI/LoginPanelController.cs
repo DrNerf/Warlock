@@ -6,6 +6,7 @@ using CommunicationLayer;
 using CommunicationLayer.CommunicationModels;
 using System;
 using CommunicationLayer.CommunicationModels.Responses;
+using UnityEngine.SceneManagement;
 
 namespace Warlock.UI
 {
@@ -35,8 +36,12 @@ namespace Warlock.UI
                 if(data != null)
                 {
                     Debug.Log(payload.Value.IsSuccess);
+                    if (payload.Value.IsSuccess)
+                    {
+                        SceneManager.LoadSceneAsync("DevArena");
+                    }
                 }
-                IsLoginBtnInteractable = true; 
+                IsLoginBtnInteractable = true;
             }
         }
 
@@ -44,11 +49,16 @@ namespace Warlock.UI
         {
             if (m_Connection.isConnected && ServerStatus != "Connected!")
                 ServerStatus = "Connected!";
+
+            if (Input.GetKeyDown(KeyCode.KeypadEnter) || Input.GetKeyDown(KeyCode.Return))
+            {
+                TryLogin();
+            }
         }
 
         public void TryLogin()
         {
-            if (m_Connection.isConnected)
+            if (m_Connection.isConnected && IsLoginBtnInteractable)
             {
                 IsLoginBtnInteractable = false;
                 var payload = new GenericPayload<TryLoginRequestModel>

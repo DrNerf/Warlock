@@ -41,7 +41,7 @@ RenderSettings:
 LightmapSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 6
-  m_GIWorkflowMode: 1
+  m_GIWorkflowMode: 0
   m_LightmapsMode: 1
   m_GISettings:
     serializedVersion: 2
@@ -208,6 +208,7 @@ GameObject:
   - 114: {fileID: 435569233}
   - 114: {fileID: 435569232}
   - 114: {fileID: 435569235}
+  - 114: {fileID: 435569236}
   m_Layer: 5
   m_Name: UsernameField
   m_TagString: Untagged
@@ -364,6 +365,18 @@ MonoBehaviour:
     _converterParameter:
       _value: 
     _direction: 0
+--- !u!114 &435569236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 435569230}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ac3cb80b9b595a43a3d470ccb1f88ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Direction: 0
 --- !u!1 &598237346
 GameObject:
   m_ObjectHideFlags: 0

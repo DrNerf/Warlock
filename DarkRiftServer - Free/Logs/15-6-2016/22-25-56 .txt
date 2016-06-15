@@ -1,0 +1,85 @@
+15.6.2016 22:25:56 	[Trace]	#### Server boot ####
+15.6.2016 22:25:56 	[Trace]	#### Server boot ####
+15.6.2016 22:25:56 	[Log]	Server mounted, listening on port 4296
+15.6.2016 22:25:56 	[Trace]	Found plugin: E:\Projects\GitHub\Warlock\DarkRiftServer - Free\Plugins\UsersPlugin.dll, type of UsersPlugin.UsersPlugin
+15.6.2016 22:25:56 	[Trace]	Found a total of 1 plugins.
+15.6.2016 22:25:56 	[Log]	Loaded plugin: Users Plugin Version: 1.0
+15.6.2016 22:26:05 	[Log]	Connected: 127.0.0.1:4659
+15.6.2016 22:26:37 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+15.6.2016 22:26:39 	[Log]	DrNerf True
+15.6.2016 22:27:02 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+15.6.2016 22:27:02 	[Log]	Disconnected: 127.0.0.1:4659
+15.6.2016 22:32:03 	[Log]	Connected: 127.0.0.1:5142
+15.6.2016 22:32:04 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+15.6.2016 22:32:04 	[Log]	Disconnected: 127.0.0.1:5142
+15.6.2016 22:32:12 	[Log]	Connected: 127.0.0.1:5153
+15.6.2016 22:32:19 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+15.6.2016 22:32:19 	[Log]	Disconnected: 127.0.0.1:5153
+15.6.2016 22:32:58 	[Log]	Connected: 127.0.0.1:5201
+15.6.2016 22:33:06 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+15.6.2016 22:33:06 	[Log]	DrNerf True
+15.6.2016 22:33:15 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+15.6.2016 22:33:15 	[Log]	Disconnected: 127.0.0.1:5201
+15.6.2016 22:34:14 	[Log]	Connected: 127.0.0.1:5294
+15.6.2016 22:34:20 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+15.6.2016 22:34:20 	[Log]	DrNerf True
+15.6.2016 22:34:22 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+15.6.2016 22:34:22 	[Log]	Disconnected: 127.0.0.1:5294
+15.6.2016 22:34:24 	[Log]	Connected: 127.0.0.1:5306
+15.6.2016 22:34:26 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+15.6.2016 22:34:26 	[Log]	Disconnected: 127.0.0.1:5306
+15.6.2016 22:38:23 	[Log]	Connected: 127.0.0.1:5648
+15.6.2016 22:38:40 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+15.6.2016 22:38:40 	[Log]	Disconnected: 127.0.0.1:5648
+15.6.2016 22:39:55 	[Log]	Connected: 127.0.0.1:5751
+15.6.2016 22:41:10 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+15.6.2016 22:41:10 	[Log]	Disconnected: 127.0.0.1:5751
+15.6.2016 22:41:47 	[Log]	Connected: 127.0.0.1:5911
+15.6.2016 22:41:56 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+15.6.2016 22:41:56 	[Log]	DrNerf True
+15.6.2016 22:41:58 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+15.6.2016 22:41:58 	[Log]	Disconnected: 127.0.0.1:5911
+15.6.2016 22:43:10 	[Log]	Connected: 127.0.0.1:6013
+15.6.2016 22:43:22 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+15.6.2016 22:43:22 	[Log]	DrNerf True
+15.6.2016 22:43:24 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+15.6.2016 22:43:24 	[Log]	Disconnected: 127.0.0.1:6013
+15.6.2016 22:43:50 	[Log]	Connected: 127.0.0.1:6080
+15.6.2016 22:43:54 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+15.6.2016 22:43:54 	[Log]	DrNerf False
+15.6.2016 22:43:58 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+15.6.2016 22:43:58 	[Log]	DrNerf True
+15.6.2016 22:44:10 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+15.6.2016 22:44:10 	[Log]	Disconnected: 127.0.0.1:6080
+15.6.2016 22:44:48 	[Log]	Connected: 127.0.0.1:6143
+15.6.2016 22:44:52 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+15.6.2016 22:44:52 	[Log]	Disconnected: 127.0.0.1:6143
+15.6.2016 22:45:01 	[Log]	Connected: 127.0.0.1:6161
+15.6.2016 22:45:03 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+15.6.2016 22:45:03 	[Log]	Disconnected: 127.0.0.1:6161
+15.6.2016 22:45:13 	[Log]	Connected: 127.0.0.1:6176
+15.6.2016 22:45:15 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+15.6.2016 22:45:15 	[Log]	Disconnected: 127.0.0.1:6176
+15.6.2016 22:52:04 	[Log]	Connected: 127.0.0.1:6648
+15.6.2016 22:52:10 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+15.6.2016 22:52:10 	[Log]	DrNerf True
+15.6.2016 22:52:15 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+15.6.2016 22:52:15 	[Log]	Disconnected: 127.0.0.1:6648
+15.6.2016 23:02:41 	[Log]	Connected: 127.0.0.1:7418
+15.6.2016 23:02:49 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+15.6.2016 23:02:49 	[Log]	DrNerf True
+15.6.2016 23:03:34 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+15.6.2016 23:03:34 	[Log]	Disconnected: 127.0.0.1:7418
+16.6.2016 00:01:42 	[Log]	Connected: 127.0.0.1:11689
+16.6.2016 00:01:48 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+16.6.2016 00:01:48 	[Log]	DrNerf False
+16.6.2016 00:01:51 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+16.6.2016 00:01:51 	[Log]	DrNerf False
+16.6.2016 00:01:55 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+16.6.2016 00:01:55 	[Log]	DrNerf False
+16.6.2016 00:02:00 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+16.6.2016 00:02:00 	[Log]	DrNerf False
+16.6.2016 00:02:07 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+16.6.2016 00:02:07 	[Log]	DrNerf True
+16.6.2016 00:03:12 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+16.6.2016 00:03:12 	[Log]	Disconnected: 127.0.0.1:11689
