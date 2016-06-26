@@ -34,7 +34,8 @@ namespace UnityStandardAssets.CrossPlatformInput.Inspector
                 case BuildTarget.iOS:
                 case BuildTarget.WP8Player:
                 case BuildTarget.PSM: 
-                case BuildTarget.WSAPlayer:
+                case BuildTarget.Tizen: 
+                case BuildTarget.WSAPlayer: 
                     EditorUtility.DisplayDialog("Mobile Input",
                                                 "You have enabled Mobile Input. You'll need to use the Unity Remote app on a connected device to control your game in the Editor.",
                                                 "OK");
@@ -97,8 +98,7 @@ namespace UnityStandardAssets.CrossPlatformInput.Inspector
                 BuildTargetGroup.iOS,
                 BuildTargetGroup.WP8,
                 BuildTargetGroup.PSM, 
-                BuildTargetGroup.SamsungTV,
-                BuildTargetGroup.Tizen,
+                BuildTargetGroup.Tizen, 
                 BuildTargetGroup.WSA 
             };
 

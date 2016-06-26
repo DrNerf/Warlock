@@ -1,0 +1,20 @@
+25/6/2016 19:02:58 PM	[Trace]	#### Server boot ####
+25/6/2016 19:02:58 PM	[Trace]	#### Server boot ####
+25/6/2016 19:02:58 PM	[Log]	Server mounted, listening on port 4296
+25/6/2016 19:02:58 PM	[Trace]	Found plugin: F:\Projects\Warlock\DarkRiftServer - Free\Plugins\UsersPlugin.dll, type of UsersPlugin.UsersPlugin
+25/6/2016 19:02:58 PM	[Trace]	Found a total of 1 plugins.
+25/6/2016 19:02:58 PM	[Log]	Loaded plugin: Users Plugin Version: 1.0
+25/6/2016 19:03:07 PM	[Log]	Connected: 127.0.0.1:61575
+25/6/2016 19:03:21 PM	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+25/6/2016 19:03:23 PM	[Log]	DrNerf False
+25/6/2016 19:03:27 PM	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+25/6/2016 19:03:27 PM	[Log]	DrNerf False
+25/6/2016 19:03:29 PM	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+25/6/2016 19:03:29 PM	[Log]	Disconnected: 127.0.0.1:61575
+25/6/2016 19:03:46 PM	[Trace]	Executing command RegisterUser
+25/6/2016 19:03:46 PM	[Log]	User qwe registered!
+25/6/2016 19:03:51 PM	[Log]	Connected: 127.0.0.1:61652
+25/6/2016 19:03:54 PM	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+25/6/2016 19:03:54 PM	[Log]	qwe True
+25/6/2016 19:04:01 PM	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+25/6/2016 19:04:01 PM	[Log]	Disconnected: 127.0.0.1:61652
