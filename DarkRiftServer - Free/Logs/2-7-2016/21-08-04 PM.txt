@@ -1,0 +1,19 @@
+2/7/2016 21:08:04 PM	[Trace]	#### Server boot ####
+2/7/2016 21:08:04 PM	[Trace]	#### Server boot ####
+2/7/2016 21:08:04 PM	[Log]	Server mounted, listening on port 4296
+2/7/2016 21:08:04 PM	[Trace]	Found plugin: F:\Projects\Warlock\DarkRiftServer - Free\Plugins\RoomsPlugin.dll, type of RoomsPlugin.RoomsPlugin
+2/7/2016 21:08:04 PM	[Trace]	Found plugin: F:\Projects\Warlock\DarkRiftServer - Free\Plugins\UsersPlugin.dll, type of UsersPlugin.UsersPlugin
+2/7/2016 21:08:04 PM	[Trace]	Found a total of 2 plugins.
+2/7/2016 21:08:04 PM	[Error]	Plugin RoomsPlugin.RoomsPlugin failed to instantiate: 
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.TypeInitializationException: The type initializer for 'RoomsPlugin.Classes.RoomsManager' threw an exception. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified.
+   at RoomsPlugin.Classes.RoomsManager..cctor()
+   --- End of inner exception stack trace ---
+   at RoomsPlugin.Classes.RoomsManager.Init()
+   at RoomsPlugin.RoomsPlugin..ctor()
+   --- End of inner exception stack trace ---
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.Activator.CreateInstance(Type type)
+   at DarkRift.PluginManager.LoadPlugins(Type[] forceLoadPlugins)
+2/7/2016 21:08:04 PM	[Log]	Loaded plugin: Users Plugin Version: 1.0

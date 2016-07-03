@@ -1,0 +1,15 @@
+2/7/2016 21:08:32 PM	[Trace]	#### Server boot ####
+2/7/2016 21:08:32 PM	[Trace]	#### Server boot ####
+2/7/2016 21:08:32 PM	[Log]	Server mounted, listening on port 4296
+2/7/2016 21:08:32 PM	[Trace]	Found plugin: F:\Projects\Warlock\DarkRiftServer - Free\Plugins\RoomsPlugin.dll, type of RoomsPlugin.RoomsPlugin
+2/7/2016 21:08:32 PM	[Trace]	Found plugin: F:\Projects\Warlock\DarkRiftServer - Free\Plugins\UsersPlugin.dll, type of UsersPlugin.UsersPlugin
+2/7/2016 21:08:32 PM	[Trace]	Found a total of 2 plugins.
+2/7/2016 21:08:32 PM	[Log]	Loaded plugin: Rooms Plugin Version: 1.0
+2/7/2016 21:08:32 PM	[Log]	Loaded plugin: Users Plugin Version: 1.0
+2/7/2016 21:08:56 PM	[Log]	Connected: 127.0.0.1:62180
+2/7/2016 21:09:13 PM	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+2/7/2016 21:09:26 PM	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+2/7/2016 21:10:35 PM	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+2/7/2016 21:10:38 PM	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+2/7/2016 21:11:41 PM	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+2/7/2016 21:11:41 PM	[Log]	Disconnected: 127.0.0.1:62180
