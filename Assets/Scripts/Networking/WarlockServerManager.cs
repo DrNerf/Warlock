@@ -3,7 +3,6 @@ using DarkRift;
 using Warlock.Common;
 using CommunicationLayer;
 using CommunicationLayer.CommunicationModels;
-using CommunicationLayer.CommunicationModels.Responses;
 using System.Collections;
 
 namespace Warlock.Networking

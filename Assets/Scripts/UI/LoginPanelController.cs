@@ -5,8 +5,8 @@ using Warlock.Networking;
 using CommunicationLayer;
 using CommunicationLayer.CommunicationModels;
 using System;
-using CommunicationLayer.CommunicationModels.Responses;
 using UnityEngine.SceneManagement;
+using UnityEngine.Events;
 
 namespace Warlock.UI
 {
@@ -19,6 +19,7 @@ namespace Warlock.UI
         public string Password;
         [HideInInspector]
         public bool IsLoginBtnInteractable = true;
+        public UnityEvent OnLogin;
 
         private DarkRiftConnection m_Connection;
 
@@ -38,7 +39,8 @@ namespace Warlock.UI
                     Debug.Log(payload.Value.IsSuccess);
                     if (payload.Value.IsSuccess)
                     {
-                        SceneManager.LoadSceneAsync("DevArena");
+                        //SceneManager.LoadSceneAsync("DevArena");
+                        OnLogin.Invoke();
                     }
                 }
                 IsLoginBtnInteractable = true;
