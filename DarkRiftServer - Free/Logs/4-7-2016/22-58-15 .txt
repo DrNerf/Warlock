@@ -1,0 +1,90 @@
+4.7.2016 22:58:15 	[Trace]	#### Server boot ####
+4.7.2016 22:58:15 	[Trace]	#### Server boot ####
+4.7.2016 22:58:15 	[Log]	Server mounted, listening on port 4296
+4.7.2016 22:58:15 	[Trace]	Found plugin: E:\Projects\GitHub\Warlock\DarkRiftServer - Free\Plugins\RoomsPlugin.dll, type of RoomsPlugin.RoomsPlugin
+4.7.2016 22:58:15 	[Trace]	Found plugin: E:\Projects\GitHub\Warlock\DarkRiftServer - Free\Plugins\UsersPlugin.dll, type of UsersPlugin.UsersPlugin
+4.7.2016 22:58:15 	[Trace]	Found a total of 2 plugins.
+4.7.2016 22:58:15 	[Log]	Loaded plugin: Rooms Plugin Version: 1.0
+4.7.2016 22:58:15 	[Log]	Loaded plugin: Users Plugin Version: 1.0
+4.7.2016 22:58:22 	[Log]	Connected: 127.0.0.1:42726
+4.7.2016 22:58:38 	[Log]	Disconnected: 127.0.0.1:42726
+4.7.2016 22:58:38 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 22:58:46 	[Log]	Connected: 127.0.0.1:42764
+4.7.2016 22:58:49 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 22:58:49 	[Log]	Disconnected: 127.0.0.1:42764
+4.7.2016 22:59:03 	[Log]	Connected: 127.0.0.1:42795
+4.7.2016 22:59:06 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 22:59:06 	[Log]	Disconnected: 127.0.0.1:42795
+4.7.2016 22:59:08 	[Log]	Connected: 127.0.0.1:42803
+4.7.2016 22:59:13 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 22:59:13 	[Log]	Disconnected: 127.0.0.1:42803
+4.7.2016 22:59:32 	[Log]	Connected: 127.0.0.1:42837
+4.7.2016 23:00:03 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:00:03 	[Log]	Disconnected: 127.0.0.1:42837
+4.7.2016 23:01:54 	[Log]	Connected: 127.0.0.1:43049
+4.7.2016 23:02:02 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+4.7.2016 23:02:20 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:02:20 	[Log]	Disconnected: 127.0.0.1:43049
+4.7.2016 23:02:22 	[Log]	Connected: 127.0.0.1:43099
+4.7.2016 23:02:30 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+4.7.2016 23:18:32 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:18:32 	[Log]	Disconnected: 127.0.0.1:43099
+4.7.2016 23:18:38 	[Log]	Connected: 127.0.0.1:44580
+4.7.2016 23:18:48 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+4.7.2016 23:18:55 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:18:55 	[Log]	Disconnected: 127.0.0.1:44580
+4.7.2016 23:19:43 	[Log]	Connected: 127.0.0.1:44672
+4.7.2016 23:19:45 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:19:45 	[Log]	Disconnected: 127.0.0.1:44672
+4.7.2016 23:19:50 	[Log]	Connected: 127.0.0.1:44685
+4.7.2016 23:19:52 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:19:52 	[Log]	Disconnected: 127.0.0.1:44685
+4.7.2016 23:19:59 	[Log]	Connected: 127.0.0.1:44705
+4.7.2016 23:20:02 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:20:02 	[Log]	Disconnected: 127.0.0.1:44705
+4.7.2016 23:20:59 	[Log]	Connected: 127.0.0.1:44799
+4.7.2016 23:21:05 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:21:05 	[Log]	Disconnected: 127.0.0.1:44799
+4.7.2016 23:21:08 	[Log]	Connected: 127.0.0.1:44813
+4.7.2016 23:21:15 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:21:15 	[Log]	Disconnected: 127.0.0.1:44813
+4.7.2016 23:42:54 	[Log]	Connected: 127.0.0.1:46993
+4.7.2016 23:43:10 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:43:10 	[Log]	Disconnected: 127.0.0.1:46993
+4.7.2016 23:43:15 	[Log]	Connected: 127.0.0.1:47032
+4.7.2016 23:43:23 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:43:23 	[Log]	Disconnected: 127.0.0.1:47032
+4.7.2016 23:50:35 	[Log]	Connected: 127.0.0.1:47685
+4.7.2016 23:51:00 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:51:00 	[Log]	Disconnected: 127.0.0.1:47685
+4.7.2016 23:51:59 	[Log]	Connected: 127.0.0.1:47816
+4.7.2016 23:52:21 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:52:21 	[Log]	Disconnected: 127.0.0.1:47816
+4.7.2016 23:53:14 	[Log]	Connected: 127.0.0.1:47926
+4.7.2016 23:53:16 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:53:16 	[Log]	Disconnected: 127.0.0.1:47926
+4.7.2016 23:54:28 	[Log]	Connected: 127.0.0.1:48040
+4.7.2016 23:54:32 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:54:32 	[Log]	Disconnected: 127.0.0.1:48040
+4.7.2016 23:54:39 	[Log]	Connected: 127.0.0.1:48055
+4.7.2016 23:54:39 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:54:39 	[Log]	Disconnected: 127.0.0.1:48055
+4.7.2016 23:55:00 	[Log]	Connected: 127.0.0.1:48091
+4.7.2016 23:55:00 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:55:00 	[Log]	Disconnected: 127.0.0.1:48091
+4.7.2016 23:55:13 	[Log]	Connected: 127.0.0.1:48111
+4.7.2016 23:55:32 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:55:32 	[Log]	Disconnected: 127.0.0.1:48111
+4.7.2016 23:57:13 	[Log]	Connected: 127.0.0.1:48311
+4.7.2016 23:57:35 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:57:35 	[Log]	Disconnected: 127.0.0.1:48311
+4.7.2016 23:57:45 	[Log]	Connected: 127.0.0.1:48355
+4.7.2016 23:57:51 	[Log]	Data: Sender: 1 DistributionType: Server Tag-Subject: 5-0
+4.7.2016 23:58:27 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:58:27 	[Log]	Disconnected: 127.0.0.1:48355
+4.7.2016 23:59:49 	[Log]	Connected: 127.0.0.1:48537
+4.7.2016 23:59:51 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:59:51 	[Log]	Disconnected: 127.0.0.1:48537
+4.7.2016 23:59:56 	[Log]	Connected: 127.0.0.1:48551
+4.7.2016 23:59:58 	[Log]	Data: Sender: 1 DistributionType: All Tag-Subject: internal (255)-Disconnect (0)
+4.7.2016 23:59:58 	[Log]	Disconnected: 127.0.0.1:48551
